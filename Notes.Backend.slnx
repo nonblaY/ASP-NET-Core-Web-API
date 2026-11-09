@@ -9,5 +9,7 @@
   <Folder Name="/Presentation/">
     <Project Path="Notes.WebApi/Notes.WebApi.csproj" Id="94fec7e1-9d9c-4292-901c-9e34f8f56d3a" />
   </Folder>
-  <Folder Name="/Tests/" />
+  <Folder Name="/Tests/">
+    <Project Path="Notes.Tests/Notes.Tests.csproj" Id="a6fcf413-a180-45e8-9dfe-01eceab20289" />
+  </Folder>
 </Solution>
