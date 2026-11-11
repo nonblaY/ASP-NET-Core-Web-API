@@ -6,13 +6,16 @@ using Notes.WebApi.Models;
 using Notes.Application.Notes.Commands.CreateNote;
 using Notes.Application.Notes.Commands.UpdateNote;
 using AutoMapper;
-
 using Notes.Application.Notes.Commands.DeleteCommand;
+using Asp.Versioning;
 
 namespace Notes.WebApi.Controllers
 {
+    [ApiVersion("1.0")]
+    [ApiVersion("2.0")]
+    //[ApiVersionNeutral]
     [Produces("application/json")]
-    [Route("api/[controller]")]
+    [Route("api/{version:apiVersion}/[controller]")]
     public class NoteController : BaseController
     {
         private readonly IMapper _mapper;
