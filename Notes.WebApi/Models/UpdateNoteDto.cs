@@ -8,7 +8,7 @@ namespace Notes.WebApi.Models
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
-        public string Details { get; set; }
+        public string Details { get; set; } = string.Empty;
 
         public void Mapping(Profile profile)
         {

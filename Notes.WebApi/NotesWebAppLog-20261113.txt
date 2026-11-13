@@ -1,0 +1,164 @@
+2026-11-13 17:41:07.690 +03:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2026-11-13 17:41:07.729 +03:00 [INF] User profile is available. Using 'C:\Users\nonblest\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-11-13 17:41:08.031 +03:00 [INF] Now listening on: https://localhost:7233
+2026-11-13 17:41:08.032 +03:00 [INF] Now listening on: http://localhost:5053
+2026-11-13 17:41:08.093 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-13 17:41:08.093 +03:00 [INF] Hosting environment: Development
+2026-11-13 17:41:08.093 +03:00 [INF] Content root path: C:\Users\nonblest\Desktop\Notes.Backend\Notes.WebApi
+2026-11-13 17:41:08.921 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/ - null null
+2026-11-13 17:41:09.001 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/ - 301 null null 84.2916ms
+2026-11-13 17:41:09.009 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.html - null null
+2026-11-13 17:41:09.050 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.html - 304 null null 41.4749ms
+2026-11-13 17:41:09.074 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/_vs/browserLink - null null
+2026-11-13 17:41:09.074 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-13 17:41:09.075 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.css - null null
+2026-11-13 17:41:09.075 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui.css - null null
+2026-11-13 17:41:09.100 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui-bundle.js - null null
+2026-11-13 17:41:09.101 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui-standalone-preset.js - null null
+2026-11-13 17:41:09.102 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.js - null null
+2026-11-13 17:41:09.103 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.js - 304 null null 0.8635ms
+2026-11-13 17:41:09.133 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/_framework/aspnetcore-browser-refresh.js - 200 14929 application/javascript; charset=utf-8 58.6825ms
+2026-11-13 17:41:09.134 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.css - 304 null null 58.9301ms
+2026-11-13 17:41:09.134 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui.css - 304 null null 58.7961ms
+2026-11-13 17:41:09.134 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui-standalone-preset.js - 304 null null 33.1899ms
+2026-11-13 17:41:09.151 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui-bundle.js - 304 null null 50.9613ms
+2026-11-13 17:41:09.357 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/favicon-16x16.png - null null
+2026-11-13 17:41:09.358 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/favicon-16x16.png - 200 665 image/png 0.6666ms
+2026-11-13 17:41:09.446 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/_vs/browserLink - 200 null text/javascript; charset=UTF-8 371.9155ms
+2026-11-13 17:41:09.489 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger/v1/swagger.json - null null
+2026-11-13 17:41:09.500 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.2652ms
+2026-11-13 17:41:43.549 +03:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2026-11-13 17:41:43.589 +03:00 [INF] User profile is available. Using 'C:\Users\nonblest\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-11-13 17:41:43.823 +03:00 [INF] Now listening on: https://localhost:7233
+2026-11-13 17:41:43.823 +03:00 [INF] Now listening on: http://localhost:5053
+2026-11-13 17:41:44.011 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-13 17:41:44.011 +03:00 [INF] Hosting environment: Development
+2026-11-13 17:41:44.011 +03:00 [INF] Content root path: C:\Users\nonblest\Desktop\Notes.Backend\Notes.WebApi
+2026-11-13 17:41:45.293 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/ - null null
+2026-11-13 17:41:45.373 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/ - 301 null null 84.5244ms
+2026-11-13 17:41:45.383 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.html - null null
+2026-11-13 17:41:45.453 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.html - 304 null null 69.4502ms
+2026-11-13 17:41:45.479 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui.css - null null
+2026-11-13 17:41:45.479 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.css - null null
+2026-11-13 17:41:45.479 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui-standalone-preset.js - null null
+2026-11-13 17:41:45.480 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.js - null null
+2026-11-13 17:41:45.480 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui-bundle.js - null null
+2026-11-13 17:41:45.502 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.js - 304 null null 22.2583ms
+2026-11-13 17:41:45.502 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-13 17:41:45.502 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/_vs/browserLink - null null
+2026-11-13 17:41:45.567 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui-standalone-preset.js - 304 null null 87.3795ms
+2026-11-13 17:41:45.567 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui.css - 304 null null 87.6702ms
+2026-11-13 17:41:45.567 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.css - 304 null null 87.5468ms
+2026-11-13 17:41:45.577 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/_framework/aspnetcore-browser-refresh.js - 200 14929 application/javascript; charset=utf-8 74.9455ms
+2026-11-13 17:41:45.582 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui-bundle.js - 304 null null 102.4504ms
+2026-11-13 17:41:45.597 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/_vs/browserLink - 200 null text/javascript; charset=UTF-8 94.576ms
+2026-11-13 17:41:45.730 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger/v1/swagger.json - null null
+2026-11-13 17:41:45.739 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.726ms
+2026-11-13 17:42:21.306 +03:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2026-11-13 17:42:21.346 +03:00 [INF] User profile is available. Using 'C:\Users\nonblest\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-11-13 17:42:21.596 +03:00 [INF] Now listening on: https://localhost:7233
+2026-11-13 17:42:21.596 +03:00 [INF] Now listening on: http://localhost:5053
+2026-11-13 17:42:21.757 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-11-13 17:42:21.757 +03:00 [INF] Hosting environment: Development
+2026-11-13 17:42:21.757 +03:00 [INF] Content root path: C:\Users\nonblest\Desktop\Notes.Backend\Notes.WebApi
+2026-11-13 17:42:22.135 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/ - null null
+2026-11-13 17:42:22.198 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/ - 301 null null 68.7385ms
+2026-11-13 17:42:22.206 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.html - null null
+2026-11-13 17:42:22.256 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.html - 304 null null 50.0139ms
+2026-11-13 17:42:22.278 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui-bundle.js - null null
+2026-11-13 17:42:22.279 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui-standalone-preset.js - null null
+2026-11-13 17:42:22.279 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.js - null null
+2026-11-13 17:42:22.303 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/_vs/browserLink - null null
+2026-11-13 17:42:22.304 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/_framework/aspnetcore-browser-refresh.js - null null
+2026-11-13 17:42:22.334 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.js - 304 null null 55.033ms
+2026-11-13 17:42:22.334 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger-ui.css - null null
+2026-11-13 17:42:22.335 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/index.css - null null
+2026-11-13 17:42:22.380 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui.css - 304 null null 46.0989ms
+2026-11-13 17:42:22.380 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui-standalone-preset.js - 304 null null 101.4328ms
+2026-11-13 17:42:22.380 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/index.css - 304 null null 45.4927ms
+2026-11-13 17:42:22.388 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/_framework/aspnetcore-browser-refresh.js - 200 14929 application/javascript; charset=utf-8 84.6227ms
+2026-11-13 17:42:22.394 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger-ui-bundle.js - 304 null null 115.3777ms
+2026-11-13 17:42:22.405 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/_vs/browserLink - 200 null text/javascript; charset=UTF-8 102.2148ms
+2026-11-13 17:42:22.528 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/swagger/v1/swagger.json - null null
+2026-11-13 17:42:22.536 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.4045ms
+2026-11-13 17:43:26.763 +03:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:43:26.805 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:43:26.806 +03:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - 204 null null 42.3343ms
+2026-11-13 17:43:26.807 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:43:26.812 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:43:26.855 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-11-13 17:43:26.859 +03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-11-13 17:43:26.860 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/api/1.0/Note - 401 0 null 52.4242ms
+2026-11-13 17:43:26.861 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:43:26.862 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:43:26.864 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-11-13 17:43:26.864 +03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-11-13 17:43:26.864 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/api/1.0/Note - 401 0 null 2.9384ms
+2026-11-13 17:45:21.023 +03:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:45:21.023 +03:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:45:21.023 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:21.023 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:21.023 +03:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - 204 null null 0.5994ms
+2026-11-13 17:45:21.023 +03:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - 204 null null 0.5496ms
+2026-11-13 17:45:21.024 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:45:21.024 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:45:21.024 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:21.024 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:21.139 +03:00 [INF] Executing endpoint 'Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi)'
+2026-11-13 17:45:21.139 +03:00 [INF] Executing endpoint 'Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi)'
+2026-11-13 17:45:21.152 +03:00 [INF] Route matched with {action = "GetAll", controller = "Note"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Notes.Application.Notes.Queries.GetNoteList.NoteListVm]] GetAll() on controller Notes.WebApi.Controllers.NoteController (Notes.WebApi).
+2026-11-13 17:45:21.152 +03:00 [INF] Route matched with {action = "GetAll", controller = "Note"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Notes.Application.Notes.Queries.GetNoteList.NoteListVm]] GetAll() on controller Notes.WebApi.Controllers.NoteController (Notes.WebApi).
+2026-11-13 17:45:21.218 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-11-13 17:45:21.250 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-11-13 17:45:21.250 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-11-13 17:45:21.270 +03:00 [INF] Notes Request: GetNoteListQuery "54a2a408-1071-46f1-9788-b486cbf72680" {"UserId":"54a2a408-1071-46f1-9788-b486cbf72680","$type":"GetNoteListQuery"}
+2026-11-13 17:45:21.270 +03:00 [INF] Notes Request: GetNoteListQuery "54a2a408-1071-46f1-9788-b486cbf72680" {"UserId":"54a2a408-1071-46f1-9788-b486cbf72680","$type":"GetNoteListQuery"}
+2026-11-13 17:45:21.554 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@request_UserId='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "n"."Id", "n"."Title"
+FROM "Notes" AS "n"
+WHERE "n"."UserId" = @request_UserId
+2026-11-13 17:45:21.554 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[@request_UserId='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "n"."Id", "n"."Title"
+FROM "Notes" AS "n"
+WHERE "n"."UserId" = @request_UserId
+2026-11-13 17:45:21.564 +03:00 [INF] Executing OkObjectResult, writing value of type 'Notes.Application.Notes.Queries.GetNoteList.NoteListVm'.
+2026-11-13 17:45:21.564 +03:00 [INF] Executing OkObjectResult, writing value of type 'Notes.Application.Notes.Queries.GetNoteList.NoteListVm'.
+2026-11-13 17:45:21.573 +03:00 [INF] Executed action Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi) in 418.5868ms
+2026-11-13 17:45:21.573 +03:00 [INF] Executed action Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi) in 418.5863ms
+2026-11-13 17:45:21.574 +03:00 [INF] Executed endpoint 'Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi)'
+2026-11-13 17:45:21.574 +03:00 [INF] Executed endpoint 'Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi)'
+2026-11-13 17:45:21.577 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/api/1.0/Note - 200 null application/json; charset=utf-8 552.6323ms
+2026-11-13 17:45:21.577 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/api/1.0/Note - 200 null application/json; charset=utf-8 552.8718ms
+2026-11-13 17:45:37.544 +03:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:45:37.544 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:37.544 +03:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7233/api/1.0/Note - 204 null null 0.4202ms
+2026-11-13 17:45:37.547 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7233/api/1.0/Note - application/json 17
+2026-11-13 17:45:37.547 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:37.548 +03:00 [INF] Executing endpoint 'Notes.WebApi.Controllers.NoteController.Create (Notes.WebApi)'
+2026-11-13 17:45:37.557 +03:00 [INF] Route matched with {action = "Create", controller = "Note"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Guid]] Create(Notes.WebApi.Models.CreateNoteDto) on controller Notes.WebApi.Controllers.NoteController (Notes.WebApi).
+2026-11-13 17:45:37.585 +03:00 [INF] Notes Request: CreateNoteCommand "54a2a408-1071-46f1-9788-b486cbf72680" {"UserId":"54a2a408-1071-46f1-9788-b486cbf72680","Title":"SOPLI","Details":"","$type":"CreateNoteCommand"}
+2026-11-13 17:45:37.745 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?', @p3='?' (DbType = DateTime), @p4='?' (Size = 5), @p5='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Notes" ("Id", "CreationDate", "Details", "EditDate", "Title", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2026-11-13 17:45:37.750 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Guid'.
+2026-11-13 17:45:37.752 +03:00 [INF] Executed action Notes.WebApi.Controllers.NoteController.Create (Notes.WebApi) in 195.1041ms
+2026-11-13 17:45:37.752 +03:00 [INF] Executed endpoint 'Notes.WebApi.Controllers.NoteController.Create (Notes.WebApi)'
+2026-11-13 17:45:37.752 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7233/api/1.0/Note - 200 null application/json; charset=utf-8 205.6232ms
+2026-11-13 17:45:37.755 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7233/api/1.0/Note - null null
+2026-11-13 17:45:37.755 +03:00 [INF] CORS policy execution successful.
+2026-11-13 17:45:37.756 +03:00 [INF] Executing endpoint 'Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi)'
+2026-11-13 17:45:37.756 +03:00 [INF] Route matched with {action = "GetAll", controller = "Note"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Notes.Application.Notes.Queries.GetNoteList.NoteListVm]] GetAll() on controller Notes.WebApi.Controllers.NoteController (Notes.WebApi).
+2026-11-13 17:45:37.757 +03:00 [INF] Notes Request: GetNoteListQuery "54a2a408-1071-46f1-9788-b486cbf72680" {"UserId":"54a2a408-1071-46f1-9788-b486cbf72680","$type":"GetNoteListQuery"}
+2026-11-13 17:45:37.759 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@request_UserId='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "n"."Id", "n"."Title"
+FROM "Notes" AS "n"
+WHERE "n"."UserId" = @request_UserId
+2026-11-13 17:45:37.759 +03:00 [INF] Executing OkObjectResult, writing value of type 'Notes.Application.Notes.Queries.GetNoteList.NoteListVm'.
+2026-11-13 17:45:37.759 +03:00 [INF] Executed action Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi) in 3.5093ms
+2026-11-13 17:45:37.759 +03:00 [INF] Executed endpoint 'Notes.WebApi.Controllers.NoteController.GetAll (Notes.WebApi)'
+2026-11-13 17:45:37.759 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7233/api/1.0/Note - 200 null application/json; charset=utf-8 4.2928ms
